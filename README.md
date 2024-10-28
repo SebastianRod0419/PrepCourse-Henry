@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Es un repositorio de Prueba de curso modulo 2
+Es una prueba de crear y clonar un repositorio desde la carpeta
